@@ -1,0 +1,8 @@
+laya-trading-v3/
+laya-trading-v4/
+laya-trading-v5/
+ckpt_*/
+__pycache__/
+*.pyc
+dev.log
+nohup.out

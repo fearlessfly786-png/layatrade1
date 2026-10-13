@@ -1,0 +1,3283 @@
+{
+ "part_a": [
+  {
+   "open_time": "2026-10-03 19:00:00+00:00",
+   "close_price": 84842.5,
+   "pred": "hold",
+   "conviction": 0.565,
+   "probs": {
+    "buy": 0.2105,
+    "hold": 0.5094,
+    "sell": 0.2801
+   },
+   "actual_4h_return_pct": -0.1,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-03 20:00:00+00:00",
+   "close_price": 84749.75,
+   "pred": "hold",
+   "conviction": 0.5522,
+   "probs": {
+    "buy": 0.2257,
+    "hold": 0.4408,
+    "sell": 0.3335
+   },
+   "actual_4h_return_pct": 0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-03 21:00:00+00:00",
+   "close_price": 84715.15,
+   "pred": "hold",
+   "conviction": 0.5666,
+   "probs": {
+    "buy": 0.2479,
+    "hold": 0.4722,
+    "sell": 0.2799
+   },
+   "actual_4h_return_pct": 0.1,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-03 22:00:00+00:00",
+   "close_price": 84776.01,
+   "pred": "hold",
+   "conviction": 0.5735,
+   "probs": {
+    "buy": 0.2471,
+    "hold": 0.4891,
+    "sell": 0.2638
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-03 23:00:00+00:00",
+   "close_price": 84753.56,
+   "pred": "hold",
+   "conviction": 0.5662,
+   "probs": {
+    "buy": 0.2726,
+    "hold": 0.4585,
+    "sell": 0.2689
+   },
+   "actual_4h_return_pct": 0.1,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 00:00:00+00:00",
+   "close_price": 84790.0,
+   "pred": "hold",
+   "conviction": 0.5743,
+   "probs": {
+    "buy": 0.1822,
+    "hold": 0.5308,
+    "sell": 0.2871
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 01:00:00+00:00",
+   "close_price": 84802.59,
+   "pred": "hold",
+   "conviction": 0.5778,
+   "probs": {
+    "buy": 0.2188,
+    "hold": 0.4893,
+    "sell": 0.2919
+   },
+   "actual_4h_return_pct": 0.13,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 02:00:00+00:00",
+   "close_price": 84802.17,
+   "pred": "hold",
+   "conviction": 0.5738,
+   "probs": {
+    "buy": 0.2101,
+    "hold": 0.4808,
+    "sell": 0.3091
+   },
+   "actual_4h_return_pct": 0.27,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 03:00:00+00:00",
+   "close_price": 84840.87,
+   "pred": "hold",
+   "conviction": 0.5756,
+   "probs": {
+    "buy": 0.1869,
+    "hold": 0.5298,
+    "sell": 0.2833
+   },
+   "actual_4h_return_pct": 0.31,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 04:00:00+00:00",
+   "close_price": 84811.94,
+   "pred": "hold",
+   "conviction": 0.5552,
+   "probs": {
+    "buy": 0.1953,
+    "hold": 0.5013,
+    "sell": 0.3034
+   },
+   "actual_4h_return_pct": 0.35,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 05:00:00+00:00",
+   "close_price": 84912.01,
+   "pred": "hold",
+   "conviction": 0.6036,
+   "probs": {
+    "buy": 0.2027,
+    "hold": 0.5573,
+    "sell": 0.24
+   },
+   "actual_4h_return_pct": 0.38,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 06:00:00+00:00",
+   "close_price": 85031.74,
+   "pred": "hold",
+   "conviction": 0.5757,
+   "probs": {
+    "buy": 0.2314,
+    "hold": 0.4694,
+    "sell": 0.2993
+   },
+   "actual_4h_return_pct": 0.27,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 07:00:00+00:00",
+   "close_price": 85106.0,
+   "pred": "hold",
+   "conviction": 0.5663,
+   "probs": {
+    "buy": 0.2185,
+    "hold": 0.4982,
+    "sell": 0.2832
+   },
+   "actual_4h_return_pct": 0.24,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 08:00:00+00:00",
+   "close_price": 85106.48,
+   "pred": "hold",
+   "conviction": 0.5619,
+   "probs": {
+    "buy": 0.2323,
+    "hold": 0.4641,
+    "sell": 0.3036
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 09:00:00+00:00",
+   "close_price": 85233.84,
+   "pred": "hold",
+   "conviction": 0.6187,
+   "probs": {
+    "buy": 0.2607,
+    "hold": 0.4667,
+    "sell": 0.2725
+   },
+   "actual_4h_return_pct": 0.01,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 10:00:00+00:00",
+   "close_price": 85264.01,
+   "pred": "hold",
+   "conviction": 0.6153,
+   "probs": {
+    "buy": 0.2421,
+    "hold": 0.5036,
+    "sell": 0.2542
+   },
+   "actual_4h_return_pct": 0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 11:00:00+00:00",
+   "close_price": 85309.46,
+   "pred": "hold",
+   "conviction": 0.6512,
+   "probs": {
+    "buy": 0.2504,
+    "hold": 0.4825,
+    "sell": 0.2671
+   },
+   "actual_4h_return_pct": -0.06,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 12:00:00+00:00",
+   "close_price": 85127.94,
+   "pred": "hold",
+   "conviction": 0.5868,
+   "probs": {
+    "buy": 0.2464,
+    "hold": 0.4611,
+    "sell": 0.2925
+   },
+   "actual_4h_return_pct": 0.29,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 13:00:00+00:00",
+   "close_price": 85241.14,
+   "pred": "hold",
+   "conviction": 0.5736,
+   "probs": {
+    "buy": 0.2505,
+    "hold": 0.4904,
+    "sell": 0.2591
+   },
+   "actual_4h_return_pct": 0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 14:00:00+00:00",
+   "close_price": 85278.44,
+   "pred": "hold",
+   "conviction": 0.6562,
+   "probs": {
+    "buy": 0.2305,
+    "hold": 0.5019,
+    "sell": 0.2676
+   },
+   "actual_4h_return_pct": 0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 15:00:00+00:00",
+   "close_price": 85256.01,
+   "pred": "hold",
+   "conviction": 0.5808,
+   "probs": {
+    "buy": 0.2629,
+    "hold": 0.4631,
+    "sell": 0.274
+   },
+   "actual_4h_return_pct": 0.2,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 16:00:00+00:00",
+   "close_price": 85374.0,
+   "pred": "hold",
+   "conviction": 0.6707,
+   "probs": {
+    "buy": 0.2372,
+    "hold": 0.5131,
+    "sell": 0.2497
+   },
+   "actual_4h_return_pct": 0.53,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 17:00:00+00:00",
+   "close_price": 85319.53,
+   "pred": "hold",
+   "conviction": 0.5716,
+   "probs": {
+    "buy": 0.2185,
+    "hold": 0.5142,
+    "sell": 0.2673
+   },
+   "actual_4h_return_pct": 0.64,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 18:00:00+00:00",
+   "close_price": 85338.84,
+   "pred": "hold",
+   "conviction": 0.5824,
+   "probs": {
+    "buy": 0.2425,
+    "hold": 0.5015,
+    "sell": 0.256
+   },
+   "actual_4h_return_pct": 1.28,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-04 19:00:00+00:00",
+   "close_price": 85428.0,
+   "pred": "hold",
+   "conviction": 0.5944,
+   "probs": {
+    "buy": 0.222,
+    "hold": 0.5304,
+    "sell": 0.2476
+   },
+   "actual_4h_return_pct": 1.29,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-04 20:00:00+00:00",
+   "close_price": 85824.44,
+   "pred": "hold",
+   "conviction": 0.6603,
+   "probs": {
+    "buy": 0.2572,
+    "hold": 0.4868,
+    "sell": 0.256
+   },
+   "actual_4h_return_pct": 0.96,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 21:00:00+00:00",
+   "close_price": 85865.42,
+   "pred": "hold",
+   "conviction": 0.6199,
+   "probs": {
+    "buy": 0.2456,
+    "hold": 0.4854,
+    "sell": 0.269
+   },
+   "actual_4h_return_pct": 0.87,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 22:00:00+00:00",
+   "close_price": 86428.01,
+   "pred": "hold",
+   "conviction": 0.5764,
+   "probs": {
+    "buy": 0.2841,
+    "hold": 0.4193,
+    "sell": 0.2966
+   },
+   "actual_4h_return_pct": 0.11,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-04 23:00:00+00:00",
+   "close_price": 86530.0,
+   "pred": "hold",
+   "conviction": 0.5555,
+   "probs": {
+    "buy": 0.3319,
+    "hold": 0.3958,
+    "sell": 0.2723
+   },
+   "actual_4h_return_pct": -0.51,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 00:00:00+00:00",
+   "close_price": 86652.46,
+   "pred": "hold",
+   "conviction": 0.5919,
+   "probs": {
+    "buy": 0.3425,
+    "hold": 0.3844,
+    "sell": 0.2731
+   },
+   "actual_4h_return_pct": -1.29,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-05 01:00:00+00:00",
+   "close_price": 86615.31,
+   "pred": "buy",
+   "conviction": 0.6341,
+   "probs": {
+    "buy": 0.3801,
+    "hold": 0.3332,
+    "sell": 0.2867
+   },
+   "actual_4h_return_pct": -0.98,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-05 02:00:00+00:00",
+   "close_price": 86522.0,
+   "pred": "hold",
+   "conviction": 0.5798,
+   "probs": {
+    "buy": 0.3716,
+    "hold": 0.3801,
+    "sell": 0.2483
+   },
+   "actual_4h_return_pct": -0.3,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 03:00:00+00:00",
+   "close_price": 86085.03,
+   "pred": "hold",
+   "conviction": 0.5588,
+   "probs": {
+    "buy": 0.2028,
+    "hold": 0.487,
+    "sell": 0.3102
+   },
+   "actual_4h_return_pct": 0.19,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 04:00:00+00:00",
+   "close_price": 85538.02,
+   "pred": "hold",
+   "conviction": 0.4805,
+   "probs": {
+    "buy": 0.2569,
+    "hold": 0.4743,
+    "sell": 0.2688
+   },
+   "actual_4h_return_pct": 0.79,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 05:00:00+00:00",
+   "close_price": 85767.57,
+   "pred": "hold",
+   "conviction": 0.5661,
+   "probs": {
+    "buy": 0.2423,
+    "hold": 0.4707,
+    "sell": 0.287
+   },
+   "actual_4h_return_pct": 0.24,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 06:00:00+00:00",
+   "close_price": 86260.0,
+   "pred": "hold",
+   "conviction": 0.5806,
+   "probs": {
+    "buy": 0.2281,
+    "hold": 0.4704,
+    "sell": 0.3015
+   },
+   "actual_4h_return_pct": -0.17,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 07:00:00+00:00",
+   "close_price": 86252.76,
+   "pred": "hold",
+   "conviction": 0.5961,
+   "probs": {
+    "buy": 0.2461,
+    "hold": 0.4858,
+    "sell": 0.268
+   },
+   "actual_4h_return_pct": -0.04,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 08:00:00+00:00",
+   "close_price": 86211.0,
+   "pred": "hold",
+   "conviction": 0.5889,
+   "probs": {
+    "buy": 0.2386,
+    "hold": 0.4824,
+    "sell": 0.279
+   },
+   "actual_4h_return_pct": -0.36,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 09:00:00+00:00",
+   "close_price": 85970.99,
+   "pred": "hold",
+   "conviction": 0.5371,
+   "probs": {
+    "buy": 0.2393,
+    "hold": 0.4491,
+    "sell": 0.3117
+   },
+   "actual_4h_return_pct": 0.54,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 10:00:00+00:00",
+   "close_price": 86117.14,
+   "pred": "hold",
+   "conviction": 0.5556,
+   "probs": {
+    "buy": 0.2185,
+    "hold": 0.5126,
+    "sell": 0.2688
+   },
+   "actual_4h_return_pct": -0.55,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 11:00:00+00:00",
+   "close_price": 86216.0,
+   "pred": "hold",
+   "conviction": 0.5803,
+   "probs": {
+    "buy": 0.2353,
+    "hold": 0.489,
+    "sell": 0.2756
+   },
+   "actual_4h_return_pct": -1.1,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-05 12:00:00+00:00",
+   "close_price": 85904.01,
+   "pred": "hold",
+   "conviction": 0.5056,
+   "probs": {
+    "buy": 0.2599,
+    "hold": 0.3847,
+    "sell": 0.3553
+   },
+   "actual_4h_return_pct": -0.7,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 13:00:00+00:00",
+   "close_price": 86432.01,
+   "pred": "hold",
+   "conviction": 0.5646,
+   "probs": {
+    "buy": 0.2178,
+    "hold": 0.4839,
+    "sell": 0.2982
+   },
+   "actual_4h_return_pct": -1.16,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-05 14:00:00+00:00",
+   "close_price": 85645.26,
+   "pred": "hold",
+   "conviction": 0.4958,
+   "probs": {
+    "buy": 0.2523,
+    "hold": 0.4348,
+    "sell": 0.3129
+   },
+   "actual_4h_return_pct": 0.0,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 15:00:00+00:00",
+   "close_price": 85269.78,
+   "pred": "hold",
+   "conviction": 0.5386,
+   "probs": {
+    "buy": 0.2263,
+    "hold": 0.4979,
+    "sell": 0.2758
+   },
+   "actual_4h_return_pct": 0.53,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 16:00:00+00:00",
+   "close_price": 85300.0,
+   "pred": "hold",
+   "conviction": 0.5362,
+   "probs": {
+    "buy": 0.2294,
+    "hold": 0.4588,
+    "sell": 0.3118
+   },
+   "actual_4h_return_pct": 0.57,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 17:00:00+00:00",
+   "close_price": 85429.24,
+   "pred": "hold",
+   "conviction": 0.5845,
+   "probs": {
+    "buy": 0.2574,
+    "hold": 0.4923,
+    "sell": 0.2504
+   },
+   "actual_4h_return_pct": 0.61,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 18:00:00+00:00",
+   "close_price": 85649.14,
+   "pred": "hold",
+   "conviction": 0.5954,
+   "probs": {
+    "buy": 0.2186,
+    "hold": 0.5463,
+    "sell": 0.2351
+   },
+   "actual_4h_return_pct": 0.33,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 19:00:00+00:00",
+   "close_price": 85724.0,
+   "pred": "hold",
+   "conviction": 0.5991,
+   "probs": {
+    "buy": 0.2217,
+    "hold": 0.5845,
+    "sell": 0.1938
+   },
+   "actual_4h_return_pct": 0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 20:00:00+00:00",
+   "close_price": 85783.94,
+   "pred": "hold",
+   "conviction": 0.5833,
+   "probs": {
+    "buy": 0.2625,
+    "hold": 0.3986,
+    "sell": 0.3389
+   },
+   "actual_4h_return_pct": 0.14,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 21:00:00+00:00",
+   "close_price": 85948.99,
+   "pred": "hold",
+   "conviction": 0.5711,
+   "probs": {
+    "buy": 0.2069,
+    "hold": 0.5135,
+    "sell": 0.2796
+   },
+   "actual_4h_return_pct": -0.33,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 22:00:00+00:00",
+   "close_price": 85928.01,
+   "pred": "hold",
+   "conviction": 0.5545,
+   "probs": {
+    "buy": 0.2129,
+    "hold": 0.5134,
+    "sell": 0.2737
+   },
+   "actual_4h_return_pct": -0.45,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-05 23:00:00+00:00",
+   "close_price": 85766.87,
+   "pred": "hold",
+   "conviction": 0.552,
+   "probs": {
+    "buy": 0.2689,
+    "hold": 0.4181,
+    "sell": 0.313
+   },
+   "actual_4h_return_pct": -0.29,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 00:00:00+00:00",
+   "close_price": 85902.01,
+   "pred": "hold",
+   "conviction": 0.5396,
+   "probs": {
+    "buy": 0.2094,
+    "hold": 0.4905,
+    "sell": 0.3001
+   },
+   "actual_4h_return_pct": -0.32,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 01:00:00+00:00",
+   "close_price": 85668.92,
+   "pred": "hold",
+   "conviction": 0.5728,
+   "probs": {
+    "buy": 0.233,
+    "hold": 0.4945,
+    "sell": 0.2725
+   },
+   "actual_4h_return_pct": -0.18,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 02:00:00+00:00",
+   "close_price": 85537.93,
+   "pred": "hold",
+   "conviction": 0.573,
+   "probs": {
+    "buy": 0.2117,
+    "hold": 0.5487,
+    "sell": 0.2397
+   },
+   "actual_4h_return_pct": -0.27,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 03:00:00+00:00",
+   "close_price": 85516.27,
+   "pred": "hold",
+   "conviction": 0.5833,
+   "probs": {
+    "buy": 0.2369,
+    "hold": 0.5385,
+    "sell": 0.2246
+   },
+   "actual_4h_return_pct": 0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 04:00:00+00:00",
+   "close_price": 85624.01,
+   "pred": "hold",
+   "conviction": 0.5802,
+   "probs": {
+    "buy": 0.2169,
+    "hold": 0.57,
+    "sell": 0.2131
+   },
+   "actual_4h_return_pct": 0.47,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 05:00:00+00:00",
+   "close_price": 85518.35,
+   "pred": "hold",
+   "conviction": 0.578,
+   "probs": {
+    "buy": 0.2067,
+    "hold": 0.5767,
+    "sell": 0.2166
+   },
+   "actual_4h_return_pct": 0.55,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 06:00:00+00:00",
+   "close_price": 85310.0,
+   "pred": "hold",
+   "conviction": 0.576,
+   "probs": {
+    "buy": 0.2329,
+    "hold": 0.5381,
+    "sell": 0.229
+   },
+   "actual_4h_return_pct": 0.99,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 07:00:00+00:00",
+   "close_price": 85555.0,
+   "pred": "hold",
+   "conviction": 0.5691,
+   "probs": {
+    "buy": 0.2248,
+    "hold": 0.55,
+    "sell": 0.2252
+   },
+   "actual_4h_return_pct": 0.8,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 08:00:00+00:00",
+   "close_price": 86026.89,
+   "pred": "hold",
+   "conviction": 0.5533,
+   "probs": {
+    "buy": 0.2516,
+    "hold": 0.4598,
+    "sell": 0.2885
+   },
+   "actual_4h_return_pct": 0.22,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 09:00:00+00:00",
+   "close_price": 85992.01,
+   "pred": "hold",
+   "conviction": 0.5945,
+   "probs": {
+    "buy": 0.2321,
+    "hold": 0.4823,
+    "sell": 0.2856
+   },
+   "actual_4h_return_pct": 0.39,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 10:00:00+00:00",
+   "close_price": 86157.15,
+   "pred": "hold",
+   "conviction": 0.5851,
+   "probs": {
+    "buy": 0.2237,
+    "hold": 0.5116,
+    "sell": 0.2647
+   },
+   "actual_4h_return_pct": 0.51,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 11:00:00+00:00",
+   "close_price": 86242.01,
+   "pred": "hold",
+   "conviction": 0.576,
+   "probs": {
+    "buy": 0.2419,
+    "hold": 0.4616,
+    "sell": 0.2965
+   },
+   "actual_4h_return_pct": -0.6,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 12:00:00+00:00",
+   "close_price": 86214.01,
+   "pred": "hold",
+   "conviction": 0.5734,
+   "probs": {
+    "buy": 0.1959,
+    "hold": 0.4946,
+    "sell": 0.3095
+   },
+   "actual_4h_return_pct": -0.73,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 13:00:00+00:00",
+   "close_price": 86324.01,
+   "pred": "hold",
+   "conviction": 0.5566,
+   "probs": {
+    "buy": 0.2533,
+    "hold": 0.4527,
+    "sell": 0.294
+   },
+   "actual_4h_return_pct": -0.7,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 14:00:00+00:00",
+   "close_price": 86595.61,
+   "pred": "hold",
+   "conviction": 0.5769,
+   "probs": {
+    "buy": 0.2478,
+    "hold": 0.4632,
+    "sell": 0.289
+   },
+   "actual_4h_return_pct": -1.26,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-06 15:00:00+00:00",
+   "close_price": 85720.65,
+   "pred": "hold",
+   "conviction": 0.5276,
+   "probs": {
+    "buy": 0.2797,
+    "hold": 0.3981,
+    "sell": 0.3221
+   },
+   "actual_4h_return_pct": -0.12,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 16:00:00+00:00",
+   "close_price": 85587.22,
+   "pred": "hold",
+   "conviction": 0.5625,
+   "probs": {
+    "buy": 0.2405,
+    "hold": 0.4951,
+    "sell": 0.2644
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 17:00:00+00:00",
+   "close_price": 85719.42,
+   "pred": "hold",
+   "conviction": 0.5263,
+   "probs": {
+    "buy": 0.2431,
+    "hold": 0.4463,
+    "sell": 0.3106
+   },
+   "actual_4h_return_pct": -0.13,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 18:00:00+00:00",
+   "close_price": 85507.07,
+   "pred": "hold",
+   "conviction": 0.4591,
+   "probs": {
+    "buy": 0.2228,
+    "hold": 0.4753,
+    "sell": 0.3019
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 19:00:00+00:00",
+   "close_price": 85614.0,
+   "pred": "hold",
+   "conviction": 0.592,
+   "probs": {
+    "buy": 0.2236,
+    "hold": 0.4901,
+    "sell": 0.2863
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 20:00:00+00:00",
+   "close_price": 85611.41,
+   "pred": "hold",
+   "conviction": 0.5823,
+   "probs": {
+    "buy": 0.1987,
+    "hold": 0.5842,
+    "sell": 0.2171
+   },
+   "actual_4h_return_pct": -0.08,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-06 21:00:00+00:00",
+   "close_price": 85610.0,
+   "pred": "hold",
+   "conviction": 0.5819,
+   "probs": {
+    "buy": 0.2153,
+    "hold": 0.5694,
+    "sell": 0.2153
+   },
+   "actual_4h_return_pct": -1.42,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-06 22:00:00+00:00",
+   "close_price": 85534.53,
+   "pred": "hold",
+   "conviction": 0.5779,
+   "probs": {
+    "buy": 0.2223,
+    "hold": 0.5558,
+    "sell": 0.2219
+   },
+   "actual_4h_return_pct": -1.95,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-06 23:00:00+00:00",
+   "close_price": 85549.93,
+   "pred": "hold",
+   "conviction": 0.5818,
+   "probs": {
+    "buy": 0.2086,
+    "hold": 0.5757,
+    "sell": 0.2158
+   },
+   "actual_4h_return_pct": -1.64,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 00:00:00+00:00",
+   "close_price": 85540.01,
+   "pred": "hold",
+   "conviction": 0.5804,
+   "probs": {
+    "buy": 0.2099,
+    "hold": 0.5601,
+    "sell": 0.23
+   },
+   "actual_4h_return_pct": -1.68,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 01:00:00+00:00",
+   "close_price": 84391.56,
+   "pred": "sell",
+   "conviction": 0.5797,
+   "probs": {
+    "buy": 0.3093,
+    "hold": 0.3229,
+    "sell": 0.3678
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 02:00:00+00:00",
+   "close_price": 83868.41,
+   "pred": "sell",
+   "conviction": 0.5835,
+   "probs": {
+    "buy": 0.3027,
+    "hold": 0.3421,
+    "sell": 0.3552
+   },
+   "actual_4h_return_pct": 0.43,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 03:00:00+00:00",
+   "close_price": 84150.39,
+   "pred": "hold",
+   "conviction": 0.5859,
+   "probs": {
+    "buy": 0.2599,
+    "hold": 0.4503,
+    "sell": 0.2898
+   },
+   "actual_4h_return_pct": -0.01,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 04:00:00+00:00",
+   "close_price": 84103.06,
+   "pred": "hold",
+   "conviction": 0.5633,
+   "probs": {
+    "buy": 0.2814,
+    "hold": 0.4375,
+    "sell": 0.281
+   },
+   "actual_4h_return_pct": -0.18,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 05:00:00+00:00",
+   "close_price": 84332.85,
+   "pred": "hold",
+   "conviction": 0.5779,
+   "probs": {
+    "buy": 0.2689,
+    "hold": 0.4761,
+    "sell": 0.255
+   },
+   "actual_4h_return_pct": -0.63,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 06:00:00+00:00",
+   "close_price": 84229.67,
+   "pred": "hold",
+   "conviction": 0.5629,
+   "probs": {
+    "buy": 0.2398,
+    "hold": 0.5238,
+    "sell": 0.2364
+   },
+   "actual_4h_return_pct": -0.57,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 07:00:00+00:00",
+   "close_price": 84145.17,
+   "pred": "hold",
+   "conviction": 0.5827,
+   "probs": {
+    "buy": 0.2713,
+    "hold": 0.3742,
+    "sell": 0.3545
+   },
+   "actual_4h_return_pct": -0.48,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 08:00:00+00:00",
+   "close_price": 83952.42,
+   "pred": "sell",
+   "conviction": 0.5602,
+   "probs": {
+    "buy": 0.2759,
+    "hold": 0.3404,
+    "sell": 0.3837
+   },
+   "actual_4h_return_pct": -0.55,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 09:00:00+00:00",
+   "close_price": 83804.0,
+   "pred": "sell",
+   "conviction": 0.5653,
+   "probs": {
+    "buy": 0.3047,
+    "hold": 0.3205,
+    "sell": 0.3747
+   },
+   "actual_4h_return_pct": -0.73,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 10:00:00+00:00",
+   "close_price": 83747.06,
+   "pred": "hold",
+   "conviction": 0.5672,
+   "probs": {
+    "buy": 0.2605,
+    "hold": 0.4266,
+    "sell": 0.3129
+   },
+   "actual_4h_return_pct": -0.88,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 11:00:00+00:00",
+   "close_price": 83740.15,
+   "pred": "hold",
+   "conviction": 0.5653,
+   "probs": {
+    "buy": 0.2493,
+    "hold": 0.4806,
+    "sell": 0.2701
+   },
+   "actual_4h_return_pct": -0.34,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 12:00:00+00:00",
+   "close_price": 83491.97,
+   "pred": "hold",
+   "conviction": 0.5653,
+   "probs": {
+    "buy": 0.2887,
+    "hold": 0.4335,
+    "sell": 0.2778
+   },
+   "actual_4h_return_pct": -0.13,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 13:00:00+00:00",
+   "close_price": 83192.01,
+   "pred": "sell",
+   "conviction": 0.574,
+   "probs": {
+    "buy": 0.3171,
+    "hold": 0.3353,
+    "sell": 0.3476
+   },
+   "actual_4h_return_pct": -0.04,
+   "actual_label": "hold",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-07 14:00:00+00:00",
+   "close_price": 83010.45,
+   "pred": "hold",
+   "conviction": 0.5638,
+   "probs": {
+    "buy": 0.2821,
+    "hold": 0.4581,
+    "sell": 0.2598
+   },
+   "actual_4h_return_pct": 0.5,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 15:00:00+00:00",
+   "close_price": 83454.24,
+   "pred": "hold",
+   "conviction": 0.587,
+   "probs": {
+    "buy": 0.2205,
+    "hold": 0.562,
+    "sell": 0.2175
+   },
+   "actual_4h_return_pct": -0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 16:00:00+00:00",
+   "close_price": 83386.09,
+   "pred": "hold",
+   "conviction": 0.5896,
+   "probs": {
+    "buy": 0.2076,
+    "hold": 0.5832,
+    "sell": 0.2092
+   },
+   "actual_4h_return_pct": 0.06,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 17:00:00+00:00",
+   "close_price": 83158.99,
+   "pred": "hold",
+   "conviction": 0.5882,
+   "probs": {
+    "buy": 0.2703,
+    "hold": 0.4665,
+    "sell": 0.2632
+   },
+   "actual_4h_return_pct": 0.0,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 18:00:00+00:00",
+   "close_price": 83422.02,
+   "pred": "hold",
+   "conviction": 0.5869,
+   "probs": {
+    "buy": 0.21,
+    "hold": 0.5089,
+    "sell": 0.2811
+   },
+   "actual_4h_return_pct": -0.24,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 19:00:00+00:00",
+   "close_price": 83434.68,
+   "pred": "hold",
+   "conviction": 0.5899,
+   "probs": {
+    "buy": 0.223,
+    "hold": 0.5651,
+    "sell": 0.2119
+   },
+   "actual_4h_return_pct": -0.14,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 20:00:00+00:00",
+   "close_price": 83432.01,
+   "pred": "hold",
+   "conviction": 0.5918,
+   "probs": {
+    "buy": 0.2221,
+    "hold": 0.5664,
+    "sell": 0.2115
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 21:00:00+00:00",
+   "close_price": 83159.21,
+   "pred": "hold",
+   "conviction": 0.5643,
+   "probs": {
+    "buy": 0.2528,
+    "hold": 0.4894,
+    "sell": 0.2578
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 22:00:00+00:00",
+   "close_price": 83225.89,
+   "pred": "hold",
+   "conviction": 0.5908,
+   "probs": {
+    "buy": 0.2005,
+    "hold": 0.5863,
+    "sell": 0.2132
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-07 23:00:00+00:00",
+   "close_price": 83321.81,
+   "pred": "hold",
+   "conviction": 0.5705,
+   "probs": {
+    "buy": 0.224,
+    "hold": 0.5735,
+    "sell": 0.2025
+   },
+   "actual_4h_return_pct": -0.68,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 00:00:00+00:00",
+   "close_price": 83369.84,
+   "pred": "hold",
+   "conviction": 0.5645,
+   "probs": {
+    "buy": 0.2048,
+    "hold": 0.5754,
+    "sell": 0.2198
+   },
+   "actual_4h_return_pct": -0.86,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 01:00:00+00:00",
+   "close_price": 83099.21,
+   "pred": "hold",
+   "conviction": 0.587,
+   "probs": {
+    "buy": 0.218,
+    "hold": 0.5096,
+    "sell": 0.2724
+   },
+   "actual_4h_return_pct": -0.5,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 02:00:00+00:00",
+   "close_price": 83168.01,
+   "pred": "hold",
+   "conviction": 0.5753,
+   "probs": {
+    "buy": 0.2159,
+    "hold": 0.5587,
+    "sell": 0.2254
+   },
+   "actual_4h_return_pct": -0.34,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 03:00:00+00:00",
+   "close_price": 82757.0,
+   "pred": "hold",
+   "conviction": 0.5761,
+   "probs": {
+    "buy": 0.1944,
+    "hold": 0.506,
+    "sell": 0.2995
+   },
+   "actual_4h_return_pct": 0.29,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 04:00:00+00:00",
+   "close_price": 82652.01,
+   "pred": "hold",
+   "conviction": 0.5397,
+   "probs": {
+    "buy": 0.2644,
+    "hold": 0.491,
+    "sell": 0.2447
+   },
+   "actual_4h_return_pct": 0.26,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 05:00:00+00:00",
+   "close_price": 82684.01,
+   "pred": "hold",
+   "conviction": 0.5904,
+   "probs": {
+    "buy": 0.2592,
+    "hold": 0.463,
+    "sell": 0.2778
+   },
+   "actual_4h_return_pct": 0.53,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 06:00:00+00:00",
+   "close_price": 82885.38,
+   "pred": "hold",
+   "conviction": 0.5744,
+   "probs": {
+    "buy": 0.2159,
+    "hold": 0.5489,
+    "sell": 0.2352
+   },
+   "actual_4h_return_pct": -0.18,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 07:00:00+00:00",
+   "close_price": 82998.75,
+   "pred": "hold",
+   "conviction": 0.5796,
+   "probs": {
+    "buy": 0.215,
+    "hold": 0.507,
+    "sell": 0.278
+   },
+   "actual_4h_return_pct": -0.59,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 08:00:00+00:00",
+   "close_price": 82866.05,
+   "pred": "hold",
+   "conviction": 0.5618,
+   "probs": {
+    "buy": 0.2268,
+    "hold": 0.4991,
+    "sell": 0.2741
+   },
+   "actual_4h_return_pct": -0.67,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 09:00:00+00:00",
+   "close_price": 83119.48,
+   "pred": "hold",
+   "conviction": 0.513,
+   "probs": {
+    "buy": 0.2546,
+    "hold": 0.4187,
+    "sell": 0.3267
+   },
+   "actual_4h_return_pct": -1.13,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 10:00:00+00:00",
+   "close_price": 82734.0,
+   "pred": "hold",
+   "conviction": 0.5489,
+   "probs": {
+    "buy": 0.2444,
+    "hold": 0.5426,
+    "sell": 0.213
+   },
+   "actual_4h_return_pct": -0.04,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 11:00:00+00:00",
+   "close_price": 82506.01,
+   "pred": "hold",
+   "conviction": 0.5654,
+   "probs": {
+    "buy": 0.2354,
+    "hold": 0.542,
+    "sell": 0.2227
+   },
+   "actual_4h_return_pct": -1.78,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 12:00:00+00:00",
+   "close_price": 82310.0,
+   "pred": "hold",
+   "conviction": 0.5636,
+   "probs": {
+    "buy": 0.2141,
+    "hold": 0.5652,
+    "sell": 0.2207
+   },
+   "actual_4h_return_pct": -1.65,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 13:00:00+00:00",
+   "close_price": 82182.01,
+   "pred": "hold",
+   "conviction": 0.5761,
+   "probs": {
+    "buy": 0.2753,
+    "hold": 0.4172,
+    "sell": 0.3076
+   },
+   "actual_4h_return_pct": -1.74,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 14:00:00+00:00",
+   "close_price": 82704.0,
+   "pred": "hold",
+   "conviction": 0.5776,
+   "probs": {
+    "buy": 0.2364,
+    "hold": 0.5425,
+    "sell": 0.2211
+   },
+   "actual_4h_return_pct": -1.44,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 15:00:00+00:00",
+   "close_price": 81037.99,
+   "pred": "hold",
+   "conviction": 0.5595,
+   "probs": {
+    "buy": 0.291,
+    "hold": 0.4084,
+    "sell": 0.3006
+   },
+   "actual_4h_return_pct": 0.91,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 16:00:00+00:00",
+   "close_price": 80953.84,
+   "pred": "sell",
+   "conviction": 0.5473,
+   "probs": {
+    "buy": 0.3247,
+    "hold": 0.3141,
+    "sell": 0.3612
+   },
+   "actual_4h_return_pct": 1.06,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 17:00:00+00:00",
+   "close_price": 80748.46,
+   "pred": "sell",
+   "conviction": 0.5764,
+   "probs": {
+    "buy": 0.308,
+    "hold": 0.3271,
+    "sell": 0.3649
+   },
+   "actual_4h_return_pct": 1.2,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-08 18:00:00+00:00",
+   "close_price": 81512.0,
+   "pred": "hold",
+   "conviction": 0.5281,
+   "probs": {
+    "buy": 0.2429,
+    "hold": 0.4546,
+    "sell": 0.3026
+   },
+   "actual_4h_return_pct": 0.47,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 19:00:00+00:00",
+   "close_price": 81775.52,
+   "pred": "hold",
+   "conviction": 0.5727,
+   "probs": {
+    "buy": 0.2392,
+    "hold": 0.5165,
+    "sell": 0.2442
+   },
+   "actual_4h_return_pct": -0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 20:00:00+00:00",
+   "close_price": 81814.0,
+   "pred": "hold",
+   "conviction": 0.5682,
+   "probs": {
+    "buy": 0.2457,
+    "hold": 0.5285,
+    "sell": 0.2258
+   },
+   "actual_4h_return_pct": -0.01,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 21:00:00+00:00",
+   "close_price": 81713.98,
+   "pred": "hold",
+   "conviction": 0.5944,
+   "probs": {
+    "buy": 0.2543,
+    "hold": 0.4507,
+    "sell": 0.295
+   },
+   "actual_4h_return_pct": 0.32,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 22:00:00+00:00",
+   "close_price": 81896.73,
+   "pred": "hold",
+   "conviction": 0.5162,
+   "probs": {
+    "buy": 0.2461,
+    "hold": 0.4334,
+    "sell": 0.3205
+   },
+   "actual_4h_return_pct": 0.26,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-08 23:00:00+00:00",
+   "close_price": 81754.45,
+   "pred": "hold",
+   "conviction": 0.5526,
+   "probs": {
+    "buy": 0.203,
+    "hold": 0.5802,
+    "sell": 0.2168
+   },
+   "actual_4h_return_pct": 0.82,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 00:00:00+00:00",
+   "close_price": 81808.0,
+   "pred": "hold",
+   "conviction": 0.5547,
+   "probs": {
+    "buy": 0.2211,
+    "hold": 0.4934,
+    "sell": 0.2855
+   },
+   "actual_4h_return_pct": 0.54,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 01:00:00+00:00",
+   "close_price": 81974.0,
+   "pred": "hold",
+   "conviction": 0.5362,
+   "probs": {
+    "buy": 0.2625,
+    "hold": 0.4307,
+    "sell": 0.3068
+   },
+   "actual_4h_return_pct": 0.46,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 02:00:00+00:00",
+   "close_price": 82113.4,
+   "pred": "hold",
+   "conviction": 0.5065,
+   "probs": {
+    "buy": 0.2352,
+    "hold": 0.4557,
+    "sell": 0.3091
+   },
+   "actual_4h_return_pct": 0.56,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 03:00:00+00:00",
+   "close_price": 82427.72,
+   "pred": "hold",
+   "conviction": 0.5178,
+   "probs": {
+    "buy": 0.2293,
+    "hold": 0.4519,
+    "sell": 0.3188
+   },
+   "actual_4h_return_pct": 0.29,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 04:00:00+00:00",
+   "close_price": 82250.01,
+   "pred": "hold",
+   "conviction": 0.5414,
+   "probs": {
+    "buy": 0.2361,
+    "hold": 0.4501,
+    "sell": 0.3138
+   },
+   "actual_4h_return_pct": 0.55,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 05:00:00+00:00",
+   "close_price": 82352.39,
+   "pred": "hold",
+   "conviction": 0.5455,
+   "probs": {
+    "buy": 0.267,
+    "hold": 0.4072,
+    "sell": 0.3258
+   },
+   "actual_4h_return_pct": 0.37,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 06:00:00+00:00",
+   "close_price": 82574.75,
+   "pred": "hold",
+   "conviction": 0.5568,
+   "probs": {
+    "buy": 0.2179,
+    "hold": 0.4649,
+    "sell": 0.3172
+   },
+   "actual_4h_return_pct": -0.01,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 07:00:00+00:00",
+   "close_price": 82664.01,
+   "pred": "hold",
+   "conviction": 0.5676,
+   "probs": {
+    "buy": 0.2343,
+    "hold": 0.4692,
+    "sell": 0.2965
+   },
+   "actual_4h_return_pct": 0.71,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 08:00:00+00:00",
+   "close_price": 82704.0,
+   "pred": "hold",
+   "conviction": 0.5613,
+   "probs": {
+    "buy": 0.2388,
+    "hold": 0.4743,
+    "sell": 0.287
+   },
+   "actual_4h_return_pct": 0.4,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 09:00:00+00:00",
+   "close_price": 82658.01,
+   "pred": "hold",
+   "conviction": 0.5391,
+   "probs": {
+    "buy": 0.2377,
+    "hold": 0.4785,
+    "sell": 0.2838
+   },
+   "actual_4h_return_pct": -0.04,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 10:00:00+00:00",
+   "close_price": 82567.04,
+   "pred": "hold",
+   "conviction": 0.6051,
+   "probs": {
+    "buy": 0.313,
+    "hold": 0.4336,
+    "sell": 0.2535
+   },
+   "actual_4h_return_pct": 0.57,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 11:00:00+00:00",
+   "close_price": 83246.82,
+   "pred": "hold",
+   "conviction": 0.5828,
+   "probs": {
+    "buy": 0.3552,
+    "hold": 0.3855,
+    "sell": 0.2593
+   },
+   "actual_4h_return_pct": -0.44,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 12:00:00+00:00",
+   "close_price": 83031.68,
+   "pred": "hold",
+   "conviction": 0.5845,
+   "probs": {
+    "buy": 0.3603,
+    "hold": 0.3874,
+    "sell": 0.2523
+   },
+   "actual_4h_return_pct": -0.34,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 13:00:00+00:00",
+   "close_price": 82627.6,
+   "pred": "hold",
+   "conviction": 0.5734,
+   "probs": {
+    "buy": 0.2449,
+    "hold": 0.4727,
+    "sell": 0.2825
+   },
+   "actual_4h_return_pct": 0.11,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 14:00:00+00:00",
+   "close_price": 83040.2,
+   "pred": "hold",
+   "conviction": 0.5277,
+   "probs": {
+    "buy": 0.2108,
+    "hold": 0.468,
+    "sell": 0.3213
+   },
+   "actual_4h_return_pct": -0.7,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 15:00:00+00:00",
+   "close_price": 82884.0,
+   "pred": "hold",
+   "conviction": 0.5624,
+   "probs": {
+    "buy": 0.2302,
+    "hold": 0.4477,
+    "sell": 0.3221
+   },
+   "actual_4h_return_pct": -0.66,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 16:00:00+00:00",
+   "close_price": 82746.0,
+   "pred": "hold",
+   "conviction": 0.5774,
+   "probs": {
+    "buy": 0.2358,
+    "hold": 0.5117,
+    "sell": 0.2525
+   },
+   "actual_4h_return_pct": -0.28,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 17:00:00+00:00",
+   "close_price": 82717.85,
+   "pred": "hold",
+   "conviction": 0.5655,
+   "probs": {
+    "buy": 0.2186,
+    "hold": 0.4969,
+    "sell": 0.2845
+   },
+   "actual_4h_return_pct": -0.22,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 18:00:00+00:00",
+   "close_price": 82458.73,
+   "pred": "hold",
+   "conviction": 0.4691,
+   "probs": {
+    "buy": 0.273,
+    "hold": 0.3832,
+    "sell": 0.3438
+   },
+   "actual_4h_return_pct": 0.21,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 19:00:00+00:00",
+   "close_price": 82337.03,
+   "pred": "hold",
+   "conviction": 0.5316,
+   "probs": {
+    "buy": 0.242,
+    "hold": 0.4309,
+    "sell": 0.3271
+   },
+   "actual_4h_return_pct": 0.36,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 20:00:00+00:00",
+   "close_price": 82514.01,
+   "pred": "hold",
+   "conviction": 0.4861,
+   "probs": {
+    "buy": 0.2607,
+    "hold": 0.4531,
+    "sell": 0.2862
+   },
+   "actual_4h_return_pct": 0.06,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 21:00:00+00:00",
+   "close_price": 82536.78,
+   "pred": "hold",
+   "conviction": 0.5069,
+   "probs": {
+    "buy": 0.2135,
+    "hold": 0.4998,
+    "sell": 0.2868
+   },
+   "actual_4h_return_pct": 0.19,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 22:00:00+00:00",
+   "close_price": 82635.95,
+   "pred": "hold",
+   "conviction": 0.5736,
+   "probs": {
+    "buy": 0.2126,
+    "hold": 0.4862,
+    "sell": 0.3012
+   },
+   "actual_4h_return_pct": -0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-09 23:00:00+00:00",
+   "close_price": 82635.55,
+   "pred": "hold",
+   "conviction": 0.5594,
+   "probs": {
+    "buy": 0.1906,
+    "hold": 0.5374,
+    "sell": 0.272
+   },
+   "actual_4h_return_pct": -0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 00:00:00+00:00",
+   "close_price": 82564.35,
+   "pred": "hold",
+   "conviction": 0.5755,
+   "probs": {
+    "buy": 0.2537,
+    "hold": 0.4267,
+    "sell": 0.3196
+   },
+   "actual_4h_return_pct": 0.15,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 01:00:00+00:00",
+   "close_price": 82694.0,
+   "pred": "hold",
+   "conviction": 0.5933,
+   "probs": {
+    "buy": 0.2867,
+    "hold": 0.3863,
+    "sell": 0.327
+   },
+   "actual_4h_return_pct": 0.18,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 02:00:00+00:00",
+   "close_price": 82619.96,
+   "pred": "hold",
+   "conviction": 0.5618,
+   "probs": {
+    "buy": 0.2381,
+    "hold": 0.3892,
+    "sell": 0.3727
+   },
+   "actual_4h_return_pct": 0.14,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 03:00:00+00:00",
+   "close_price": 82596.83,
+   "pred": "hold",
+   "conviction": 0.5271,
+   "probs": {
+    "buy": 0.2729,
+    "hold": 0.3894,
+    "sell": 0.3378
+   },
+   "actual_4h_return_pct": 0.26,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 04:00:00+00:00",
+   "close_price": 82686.87,
+   "pred": "hold",
+   "conviction": 0.5727,
+   "probs": {
+    "buy": 0.249,
+    "hold": 0.4138,
+    "sell": 0.3373
+   },
+   "actual_4h_return_pct": 0.2,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 05:00:00+00:00",
+   "close_price": 82844.01,
+   "pred": "hold",
+   "conviction": 0.5856,
+   "probs": {
+    "buy": 0.1606,
+    "hold": 0.5672,
+    "sell": 0.2723
+   },
+   "actual_4h_return_pct": 0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 06:00:00+00:00",
+   "close_price": 82738.01,
+   "pred": "hold",
+   "conviction": 0.608,
+   "probs": {
+    "buy": 0.1977,
+    "hold": 0.5278,
+    "sell": 0.2746
+   },
+   "actual_4h_return_pct": 0.15,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 07:00:00+00:00",
+   "close_price": 82807.47,
+   "pred": "hold",
+   "conviction": 0.5625,
+   "probs": {
+    "buy": 0.1997,
+    "hold": 0.5036,
+    "sell": 0.2967
+   },
+   "actual_4h_return_pct": 0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 08:00:00+00:00",
+   "close_price": 82850.0,
+   "pred": "hold",
+   "conviction": 0.5624,
+   "probs": {
+    "buy": 0.1999,
+    "hold": 0.4589,
+    "sell": 0.3412
+   },
+   "actual_4h_return_pct": -0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 09:00:00+00:00",
+   "close_price": 82859.12,
+   "pred": "hold",
+   "conviction": 0.5938,
+   "probs": {
+    "buy": 0.2282,
+    "hold": 0.5207,
+    "sell": 0.2511
+   },
+   "actual_4h_return_pct": -0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 10:00:00+00:00",
+   "close_price": 82863.0,
+   "pred": "hold",
+   "conviction": 0.5734,
+   "probs": {
+    "buy": 0.2207,
+    "hold": 0.4823,
+    "sell": 0.297
+   },
+   "actual_4h_return_pct": 0.15,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 11:00:00+00:00",
+   "close_price": 82879.71,
+   "pred": "hold",
+   "conviction": 0.4934,
+   "probs": {
+    "buy": 0.1847,
+    "hold": 0.4658,
+    "sell": 0.3495
+   },
+   "actual_4h_return_pct": 0.2,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 12:00:00+00:00",
+   "close_price": 82808.0,
+   "pred": "hold",
+   "conviction": 0.5373,
+   "probs": {
+    "buy": 0.1942,
+    "hold": 0.5352,
+    "sell": 0.2706
+   },
+   "actual_4h_return_pct": 0.25,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 13:00:00+00:00",
+   "close_price": 82830.26,
+   "pred": "hold",
+   "conviction": 0.5619,
+   "probs": {
+    "buy": 0.1868,
+    "hold": 0.5229,
+    "sell": 0.2903
+   },
+   "actual_4h_return_pct": 0.35,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 14:00:00+00:00",
+   "close_price": 82987.14,
+   "pred": "hold",
+   "conviction": 0.609,
+   "probs": {
+    "buy": 0.2194,
+    "hold": 0.542,
+    "sell": 0.2386
+   },
+   "actual_4h_return_pct": 0.06,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 15:00:00+00:00",
+   "close_price": 83048.75,
+   "pred": "hold",
+   "conviction": 0.5775,
+   "probs": {
+    "buy": 0.238,
+    "hold": 0.481,
+    "sell": 0.2809
+   },
+   "actual_4h_return_pct": 0.04,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 16:00:00+00:00",
+   "close_price": 83011.69,
+   "pred": "hold",
+   "conviction": 0.5998,
+   "probs": {
+    "buy": 0.254,
+    "hold": 0.4907,
+    "sell": 0.2553
+   },
+   "actual_4h_return_pct": 0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 17:00:00+00:00",
+   "close_price": 83118.0,
+   "pred": "hold",
+   "conviction": 0.5834,
+   "probs": {
+    "buy": 0.2161,
+    "hold": 0.5243,
+    "sell": 0.2595
+   },
+   "actual_4h_return_pct": -0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 18:00:00+00:00",
+   "close_price": 83034.01,
+   "pred": "hold",
+   "conviction": 0.5701,
+   "probs": {
+    "buy": 0.2343,
+    "hold": 0.4953,
+    "sell": 0.2705
+   },
+   "actual_4h_return_pct": 0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 19:00:00+00:00",
+   "close_price": 83085.43,
+   "pred": "hold",
+   "conviction": 0.573,
+   "probs": {
+    "buy": 0.2172,
+    "hold": 0.5193,
+    "sell": 0.2634
+   },
+   "actual_4h_return_pct": -0.12,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 20:00:00+00:00",
+   "close_price": 83040.01,
+   "pred": "hold",
+   "conviction": 0.5497,
+   "probs": {
+    "buy": 0.2137,
+    "hold": 0.4927,
+    "sell": 0.2936
+   },
+   "actual_4h_return_pct": -0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 21:00:00+00:00",
+   "close_price": 83040.0,
+   "pred": "hold",
+   "conviction": 0.5433,
+   "probs": {
+    "buy": 0.2401,
+    "hold": 0.4531,
+    "sell": 0.3067
+   },
+   "actual_4h_return_pct": -0.0,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 22:00:00+00:00",
+   "close_price": 83088.01,
+   "pred": "hold",
+   "conviction": 0.5828,
+   "probs": {
+    "buy": 0.1913,
+    "hold": 0.5218,
+    "sell": 0.2869
+   },
+   "actual_4h_return_pct": 0.01,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-10 23:00:00+00:00",
+   "close_price": 82988.36,
+   "pred": "hold",
+   "conviction": 0.545,
+   "probs": {
+    "buy": 0.2439,
+    "hold": 0.4737,
+    "sell": 0.2824
+   },
+   "actual_4h_return_pct": -0.2,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 00:00:00+00:00",
+   "close_price": 82968.04,
+   "pred": "hold",
+   "conviction": 0.4889,
+   "probs": {
+    "buy": 0.25,
+    "hold": 0.4531,
+    "sell": 0.297
+   },
+   "actual_4h_return_pct": 0.07,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 01:00:00+00:00",
+   "close_price": 83037.63,
+   "pred": "hold",
+   "conviction": 0.5654,
+   "probs": {
+    "buy": 0.1837,
+    "hold": 0.5302,
+    "sell": 0.2862
+   },
+   "actual_4h_return_pct": 0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 02:00:00+00:00",
+   "close_price": 83097.39,
+   "pred": "hold",
+   "conviction": 0.5797,
+   "probs": {
+    "buy": 0.1965,
+    "hold": 0.5113,
+    "sell": 0.2922
+   },
+   "actual_4h_return_pct": 0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 03:00:00+00:00",
+   "close_price": 82820.01,
+   "pred": "hold",
+   "conviction": 0.3621,
+   "probs": {
+    "buy": 0.2174,
+    "hold": 0.4846,
+    "sell": 0.298
+   },
+   "actual_4h_return_pct": 0.25,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 04:00:00+00:00",
+   "close_price": 83028.18,
+   "pred": "hold",
+   "conviction": 0.5773,
+   "probs": {
+    "buy": 0.2178,
+    "hold": 0.5126,
+    "sell": 0.2696
+   },
+   "actual_4h_return_pct": 0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 05:00:00+00:00",
+   "close_price": 83054.66,
+   "pred": "hold",
+   "conviction": 0.5678,
+   "probs": {
+    "buy": 0.2273,
+    "hold": 0.4981,
+    "sell": 0.2746
+   },
+   "actual_4h_return_pct": -0.02,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 06:00:00+00:00",
+   "close_price": 83170.65,
+   "pred": "hold",
+   "conviction": 0.6061,
+   "probs": {
+    "buy": 0.186,
+    "hold": 0.5161,
+    "sell": 0.2979
+   },
+   "actual_4h_return_pct": -0.22,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 07:00:00+00:00",
+   "close_price": 83025.02,
+   "pred": "hold",
+   "conviction": 0.6211,
+   "probs": {
+    "buy": 0.245,
+    "hold": 0.474,
+    "sell": 0.2811
+   },
+   "actual_4h_return_pct": 0.17,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 08:00:00+00:00",
+   "close_price": 83047.0,
+   "pred": "hold",
+   "conviction": 0.5879,
+   "probs": {
+    "buy": 0.2156,
+    "hold": 0.5085,
+    "sell": 0.2759
+   },
+   "actual_4h_return_pct": 0.08,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 09:00:00+00:00",
+   "close_price": 83040.0,
+   "pred": "hold",
+   "conviction": 0.5304,
+   "probs": {
+    "buy": 0.2431,
+    "hold": 0.4337,
+    "sell": 0.3231
+   },
+   "actual_4h_return_pct": 0.05,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 10:00:00+00:00",
+   "close_price": 82991.71,
+   "pred": "hold",
+   "conviction": 0.5241,
+   "probs": {
+    "buy": 0.2389,
+    "hold": 0.4711,
+    "sell": 0.29
+   },
+   "actual_4h_return_pct": 0.17,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 11:00:00+00:00",
+   "close_price": 83164.0,
+   "pred": "hold",
+   "conviction": 0.6711,
+   "probs": {
+    "buy": 0.2067,
+    "hold": 0.4694,
+    "sell": 0.324
+   },
+   "actual_4h_return_pct": 0.9,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 12:00:00+00:00",
+   "close_price": 83112.01,
+   "pred": "hold",
+   "conviction": 0.6271,
+   "probs": {
+    "buy": 0.2202,
+    "hold": 0.5079,
+    "sell": 0.2719
+   },
+   "actual_4h_return_pct": 0.97,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 13:00:00+00:00",
+   "close_price": 83083.1,
+   "pred": "hold",
+   "conviction": 0.5969,
+   "probs": {
+    "buy": 0.2089,
+    "hold": 0.4765,
+    "sell": 0.3146
+   },
+   "actual_4h_return_pct": 0.89,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 14:00:00+00:00",
+   "close_price": 83129.92,
+   "pred": "hold",
+   "conviction": 0.6028,
+   "probs": {
+    "buy": 0.1898,
+    "hold": 0.4901,
+    "sell": 0.3201
+   },
+   "actual_4h_return_pct": 0.66,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 15:00:00+00:00",
+   "close_price": 83908.89,
+   "pred": "hold",
+   "conviction": 0.627,
+   "probs": {
+    "buy": 0.2376,
+    "hold": 0.4974,
+    "sell": 0.265
+   },
+   "actual_4h_return_pct": -0.29,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 16:00:00+00:00",
+   "close_price": 83916.01,
+   "pred": "hold",
+   "conviction": 0.5782,
+   "probs": {
+    "buy": 0.2391,
+    "hold": 0.5075,
+    "sell": 0.2534
+   },
+   "actual_4h_return_pct": -0.28,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 17:00:00+00:00",
+   "close_price": 83824.0,
+   "pred": "hold",
+   "conviction": 0.6865,
+   "probs": {
+    "buy": 0.2248,
+    "hold": 0.5304,
+    "sell": 0.2448
+   },
+   "actual_4h_return_pct": -0.35,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 18:00:00+00:00",
+   "close_price": 83678.01,
+   "pred": "hold",
+   "conviction": 0.57,
+   "probs": {
+    "buy": 0.1924,
+    "hold": 0.505,
+    "sell": 0.3026
+   },
+   "actual_4h_return_pct": -0.03,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 19:00:00+00:00",
+   "close_price": 83669.23,
+   "pred": "hold",
+   "conviction": 0.5572,
+   "probs": {
+    "buy": 0.202,
+    "hold": 0.4817,
+    "sell": 0.3164
+   },
+   "actual_4h_return_pct": 0.12,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 20:00:00+00:00",
+   "close_price": 83678.72,
+   "pred": "hold",
+   "conviction": 0.5619,
+   "probs": {
+    "buy": 0.2047,
+    "hold": 0.5164,
+    "sell": 0.2789
+   },
+   "actual_4h_return_pct": 0.34,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 21:00:00+00:00",
+   "close_price": 83529.47,
+   "pred": "hold",
+   "conviction": 0.5757,
+   "probs": {
+    "buy": 0.2358,
+    "hold": 0.4799,
+    "sell": 0.2843
+   },
+   "actual_4h_return_pct": 0.17,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 22:00:00+00:00",
+   "close_price": 83652.01,
+   "pred": "hold",
+   "conviction": 0.5541,
+   "probs": {
+    "buy": 0.2114,
+    "hold": 0.4869,
+    "sell": 0.3017
+   },
+   "actual_4h_return_pct": 0.22,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-11 23:00:00+00:00",
+   "close_price": 83773.12,
+   "pred": "hold",
+   "conviction": 0.5846,
+   "probs": {
+    "buy": 0.2084,
+    "hold": 0.5272,
+    "sell": 0.2645
+   },
+   "actual_4h_return_pct": -0.19,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 00:00:00+00:00",
+   "close_price": 83962.66,
+   "pred": "hold",
+   "conviction": 0.5659,
+   "probs": {
+    "buy": 0.2539,
+    "hold": 0.4871,
+    "sell": 0.259
+   },
+   "actual_4h_return_pct": 0.22,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 01:00:00+00:00",
+   "close_price": 83667.98,
+   "pred": "hold",
+   "conviction": 0.5557,
+   "probs": {
+    "buy": 0.1795,
+    "hold": 0.501,
+    "sell": 0.3195
+   },
+   "actual_4h_return_pct": 0.42,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 02:00:00+00:00",
+   "close_price": 83836.01,
+   "pred": "hold",
+   "conviction": 0.5636,
+   "probs": {
+    "buy": 0.2036,
+    "hold": 0.5133,
+    "sell": 0.2832
+   },
+   "actual_4h_return_pct": 0.46,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 03:00:00+00:00",
+   "close_price": 83613.06,
+   "pred": "hold",
+   "conviction": 0.5422,
+   "probs": {
+    "buy": 0.268,
+    "hold": 0.4472,
+    "sell": 0.2847
+   },
+   "actual_4h_return_pct": 0.45,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 04:00:00+00:00",
+   "close_price": 84148.81,
+   "pred": "hold",
+   "conviction": 0.5714,
+   "probs": {
+    "buy": 0.2174,
+    "hold": 0.5119,
+    "sell": 0.2707
+   },
+   "actual_4h_return_pct": -0.76,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 05:00:00+00:00",
+   "close_price": 84022.0,
+   "pred": "hold",
+   "conviction": 0.5772,
+   "probs": {
+    "buy": 0.2126,
+    "hold": 0.5181,
+    "sell": 0.2694
+   },
+   "actual_4h_return_pct": -0.55,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 06:00:00+00:00",
+   "close_price": 84224.01,
+   "pred": "hold",
+   "conviction": 0.5745,
+   "probs": {
+    "buy": 0.2115,
+    "hold": 0.5195,
+    "sell": 0.269
+   },
+   "actual_4h_return_pct": -0.86,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 07:00:00+00:00",
+   "close_price": 83991.51,
+   "pred": "hold",
+   "conviction": 0.5456,
+   "probs": {
+    "buy": 0.211,
+    "hold": 0.4866,
+    "sell": 0.3024
+   },
+   "actual_4h_return_pct": -0.71,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 08:00:00+00:00",
+   "close_price": 83506.0,
+   "pred": "hold",
+   "conviction": 0.4098,
+   "probs": {
+    "buy": 0.2545,
+    "hold": 0.4079,
+    "sell": 0.3376
+   },
+   "actual_4h_return_pct": -0.89,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 09:00:00+00:00",
+   "close_price": 83556.01,
+   "pred": "hold",
+   "conviction": 0.5878,
+   "probs": {
+    "buy": 0.2408,
+    "hold": 0.4937,
+    "sell": 0.2655
+   },
+   "actual_4h_return_pct": -0.7,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 10:00:00+00:00",
+   "close_price": 83500.72,
+   "pred": "hold",
+   "conviction": 0.4332,
+   "probs": {
+    "buy": 0.2773,
+    "hold": 0.3875,
+    "sell": 0.3352
+   },
+   "actual_4h_return_pct": -1.09,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-12 11:00:00+00:00",
+   "close_price": 83396.6,
+   "pred": "hold",
+   "conviction": 0.5126,
+   "probs": {
+    "buy": 0.2459,
+    "hold": 0.4097,
+    "sell": 0.3444
+   },
+   "actual_4h_return_pct": -0.8,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 12:00:00+00:00",
+   "close_price": 82759.02,
+   "pred": "hold",
+   "conviction": 0.5636,
+   "probs": {
+    "buy": 0.2752,
+    "hold": 0.413,
+    "sell": 0.3118
+   },
+   "actual_4h_return_pct": -0.3,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 13:00:00+00:00",
+   "close_price": 82968.61,
+   "pred": "hold",
+   "conviction": 0.5855,
+   "probs": {
+    "buy": 0.2425,
+    "hold": 0.5119,
+    "sell": 0.2455
+   },
+   "actual_4h_return_pct": -0.56,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 14:00:00+00:00",
+   "close_price": 82592.01,
+   "pred": "hold",
+   "conviction": 0.5782,
+   "probs": {
+    "buy": 0.2612,
+    "hold": 0.4909,
+    "sell": 0.248
+   },
+   "actual_4h_return_pct": -0.17,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 15:00:00+00:00",
+   "close_price": 82730.5,
+   "pred": "hold",
+   "conviction": 0.5659,
+   "probs": {
+    "buy": 0.2466,
+    "hold": 0.5125,
+    "sell": 0.2408
+   },
+   "actual_4h_return_pct": 0.16,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 16:00:00+00:00",
+   "close_price": 82510.59,
+   "pred": "hold",
+   "conviction": 0.5641,
+   "probs": {
+    "buy": 0.2364,
+    "hold": 0.5405,
+    "sell": 0.2232
+   },
+   "actual_4h_return_pct": 0.71,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 17:00:00+00:00",
+   "close_price": 82504.0,
+   "pred": "hold",
+   "conviction": 0.5747,
+   "probs": {
+    "buy": 0.2436,
+    "hold": 0.5165,
+    "sell": 0.2398
+   },
+   "actual_4h_return_pct": 0.09,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 18:00:00+00:00",
+   "close_price": 82448.0,
+   "pred": "hold",
+   "conviction": 0.5592,
+   "probs": {
+    "buy": 0.2299,
+    "hold": 0.5044,
+    "sell": 0.2657
+   },
+   "actual_4h_return_pct": -0.35,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 19:00:00+00:00",
+   "close_price": 82861.8,
+   "pred": "hold",
+   "conviction": 0.5656,
+   "probs": {
+    "buy": 0.2594,
+    "hold": 0.4967,
+    "sell": 0.244
+   },
+   "actual_4h_return_pct": -1.22,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-12 20:00:00+00:00",
+   "close_price": 83096.61,
+   "pred": "hold",
+   "conviction": 0.5384,
+   "probs": {
+    "buy": 0.2432,
+    "hold": 0.4447,
+    "sell": 0.3121
+   },
+   "actual_4h_return_pct": -1.99,
+   "actual_label": "sell",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-12 21:00:00+00:00",
+   "close_price": 82574.18,
+   "pred": "hold",
+   "conviction": 0.5586,
+   "probs": {
+    "buy": 0.2512,
+    "hold": 0.5011,
+    "sell": 0.2477
+   },
+   "actual_4h_return_pct": -0.16,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 22:00:00+00:00",
+   "close_price": 82157.66,
+   "pred": "hold",
+   "conviction": 0.5781,
+   "probs": {
+    "buy": 0.2294,
+    "hold": 0.5358,
+    "sell": 0.2348
+   },
+   "actual_4h_return_pct": 0.94,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-12 23:00:00+00:00",
+   "close_price": 81850.0,
+   "pred": "hold",
+   "conviction": 0.5225,
+   "probs": {
+    "buy": 0.2833,
+    "hold": 0.4489,
+    "sell": 0.2678
+   },
+   "actual_4h_return_pct": 1.81,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-13 00:00:00+00:00",
+   "close_price": 81442.56,
+   "pred": "sell",
+   "conviction": 0.5791,
+   "probs": {
+    "buy": 0.3226,
+    "hold": 0.3078,
+    "sell": 0.3696
+   },
+   "actual_4h_return_pct": 2.47,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-13 01:00:00+00:00",
+   "close_price": 82442.21,
+   "pred": "hold",
+   "conviction": 0.5685,
+   "probs": {
+    "buy": 0.2073,
+    "hold": 0.5775,
+    "sell": 0.2153
+   },
+   "actual_4h_return_pct": 1.5,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-13 02:00:00+00:00",
+   "close_price": 82930.0,
+   "pred": "hold",
+   "conviction": 0.4694,
+   "probs": {
+    "buy": 0.2623,
+    "hold": 0.4276,
+    "sell": 0.3101
+   },
+   "actual_4h_return_pct": 1.02,
+   "actual_label": "buy",
+   "correct": false
+  },
+  {
+   "open_time": "2026-10-13 03:00:00+00:00",
+   "close_price": 83331.17,
+   "pred": "hold",
+   "conviction": 0.5099,
+   "probs": {
+    "buy": 0.3004,
+    "hold": 0.4281,
+    "sell": 0.2715
+   },
+   "actual_4h_return_pct": 0.65,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-13 04:00:00+00:00",
+   "close_price": 83453.87,
+   "pred": "hold",
+   "conviction": 0.5345,
+   "probs": {
+    "buy": 0.2397,
+    "hold": 0.4695,
+    "sell": 0.2908
+   },
+   "actual_4h_return_pct": 0.16,
+   "actual_label": "hold",
+   "correct": true
+  },
+  {
+   "open_time": "2026-10-13 05:00:00+00:00",
+   "close_price": 83681.87,
+   "pred": "hold",
+   "conviction": 0.5723,
+   "probs": {
+    "buy": 0.2103,
+    "hold": 0.4744,
+    "sell": 0.3153
+   },
+   "actual_4h_return_pct": -0.07,
+   "actual_label": "hold",
+   "correct": true
+  }
+ ],
+ "part_a_summary": {
+  "n": 227,
+  "accuracy": 0.8678,
+  "hold_baseline": 0.8943,
+  "true_counts": {
+   "buy": 8,
+   "hold": 203,
+   "sell": 16
+  },
+  "pred_counts": {
+   "buy": 1,
+   "hold": 218,
+   "sell": 8
+  }
+ },
+ "part_b_live_calls": [
+  {
+   "candle_open_utc": "2026-10-13 06:00:00+00:00",
+   "price_at_decision": 83774.7,
+   "decision": "hold",
+   "conviction": 0.5601,
+   "probabilities": {
+    "buy": 0.2411,
+    "hold": 0.4642,
+    "sell": 0.2947
+   },
+   "resolves_utc": "2026-10-13 10:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 07:00:00+00:00",
+   "price_at_decision": 83870.89,
+   "decision": "hold",
+   "conviction": 0.5762,
+   "probabilities": {
+    "buy": 0.3486,
+    "hold": 0.3603,
+    "sell": 0.2911
+   },
+   "resolves_utc": "2026-10-13 11:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 08:00:00+00:00",
+   "price_at_decision": 83587.14,
+   "decision": "hold",
+   "conviction": 0.5678,
+   "probabilities": {
+    "buy": 0.3322,
+    "hold": 0.3829,
+    "sell": 0.2849
+   },
+   "resolves_utc": "2026-10-13 12:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 09:00:00+00:00",
+   "price_at_decision": 83624.01,
+   "decision": "hold",
+   "conviction": 0.6055,
+   "probabilities": {
+    "buy": 0.2394,
+    "hold": 0.4774,
+    "sell": 0.2833
+   },
+   "resolves_utc": "2026-10-13 13:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 10:00:00+00:00",
+   "price_at_decision": 83341.42,
+   "decision": "hold",
+   "conviction": 0.5708,
+   "probabilities": {
+    "buy": 0.246,
+    "hold": 0.4809,
+    "sell": 0.273
+   },
+   "resolves_utc": "2026-10-13 14:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 11:00:00+00:00",
+   "price_at_decision": 83360.01,
+   "decision": "hold",
+   "conviction": 0.5772,
+   "probabilities": {
+    "buy": 0.2051,
+    "hold": 0.4996,
+    "sell": 0.2953
+   },
+   "resolves_utc": "2026-10-13 15:00:00+00:00"
+  },
+  {
+   "candle_open_utc": "2026-10-13 12:00:00+00:00",
+   "price_at_decision": 83280.01,
+   "decision": "hold",
+   "conviction": 0.376,
+   "probabilities": {
+    "buy": 0.2608,
+    "hold": 0.4194,
+    "sell": 0.3198
+   },
+   "resolves_utc": "2026-10-13 16:00:00+00:00"
+  }
+ ]
+}
